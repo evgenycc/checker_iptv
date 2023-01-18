@@ -1,0 +1,6 @@
+requests
+colorama
+bs4
+lxml
+pytube
+opencv-python
