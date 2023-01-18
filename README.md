@@ -7,4 +7,4 @@ It requires installing third-party libraries that do not come with python "out o
 
 `pip install colorama requests bs4 lxml pytube opencv-python`
 
-For a more detailed description of the script, see the [article.]([http://example.net/](https://codeby.net/threads/nemnogo-ob-iptv-ili-proverka-m3u-s-pomoschju-python-chast-02.81159/))
+For a more detailed description of the script, see the [article](https://codeby.net/threads/nemnogo-ob-iptv-ili-proverka-m3u-s-pomoschju-python-chast-02.81159/).
