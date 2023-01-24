@@ -1,4 +1,4 @@
-# checker_iptv
+# checker iptv
 Checking m3u playlists for functionality
 
 
