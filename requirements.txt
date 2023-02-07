@@ -1,7 +1,0 @@
-requests
-httpx
-colorama
-bs4
-lxml
-pytube
-opencv-python
